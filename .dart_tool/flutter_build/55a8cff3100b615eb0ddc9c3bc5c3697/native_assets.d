@@ -1,0 +1,1 @@
+ C:\\src\\project_s6\\FlightBookingApp-projectwp2\\.dart_tool\\flutter_build\\55a8cff3100b615eb0ddc9c3bc5c3697\\native_assets.yaml: 
